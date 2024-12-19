@@ -26,4 +26,4 @@ Checking points
 1. MPI code in "BoundaryProblem.cpp", "Makefile" in current directory
 2. SPRNG in "BoundaryProblem.cpp", quasi-random number in "Buffon.jl"
 3. Visualization plots would be saved in current directory if codes were done.
-4. Uploaded on github. Please see the link in LMS.
+4. Uploaded on github.
