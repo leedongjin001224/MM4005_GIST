@@ -19,7 +19,7 @@ You should enter random number generator type and number of bins (try 0, 1000 ea
 This executes two codes.
 First c++ code for simulation would save results in directory ./results.
 Then plotting.jl would be run if you entered "make" before.
-This plotting code would save 6 plots, each names with "{bin*num}*{some plot name}.pdf" format where bin_num is the number of bins you entered at first.
+This plotting code would save 6 plots, each names with "{bin_num}_{some plot name}.pdf" format where bin_num is the number of bins you entered at first.
 
 Checking points
 
