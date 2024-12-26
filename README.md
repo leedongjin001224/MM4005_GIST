@@ -16,7 +16,7 @@ Note that Wallis product is deterministic method, which computes product series.
 Second problem is about the probabilistic potential theory.
 Enter "make" (enter "make clean; make" if exec file already exists) to run.
 You should enter random number generator type and number of bins (try 0, 1000 each for test).
-This executes two codes and might takes less than 10 minutes.
+This executes two codes.
 First c++ code for simulation would save results in directory ./results.
 Then plotting.jl would be run if you entered "make" before.
 This plotting code would save 6 plots, each names with "{bin*num}*{some plot name}.pdf" format where bin_num is the number of bins you entered at first.
